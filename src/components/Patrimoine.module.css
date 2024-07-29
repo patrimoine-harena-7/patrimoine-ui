@@ -1,0 +1,9 @@
+.patrimoineListStyle{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.color{
+    color: rgb(20, 20, 169);
+}
