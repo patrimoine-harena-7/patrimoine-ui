@@ -1,17 +1,8 @@
 {
   "patrimoine": [
     {
-      "id": 1,
-      "nom": "Item 1",
-      "possesseur": {
-        "nom": "Bretta"
-      },
-      "t": "2023-01-01",
-      "valeur_comptable": 100
-    },
-    {
       "id": 2,
-      "nom": "Item 2",
+      "nom": "Akanjo ",
       "possesseur": {
         "nom": "Bretta"
       },
@@ -20,7 +11,7 @@
     },
     {
       "id": 3,
-      "nom": "Item 3",
+      "nom": "kiraro ",
       "possesseur": {
         "nom": "Bretta"
       },
@@ -29,7 +20,7 @@
     },
     {
       "id": 4,
-      "nom": "Item 4",
+      "nom": "Maison",
       "possesseur": {
         "nom": "Bretta"
       },
