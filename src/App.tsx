@@ -6,7 +6,6 @@ import { PatrimoineEdit } from "./components/PatrimoineEdit";
 import { PatrimoineCreate } from "./components/PatrimoineCreate";
 import { UserList } from "./components/UserList";
 import { UserEdit } from "./components/UserEdit";
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 const DataProvider = jsonServerProvider("http://localhost:3000");
 
