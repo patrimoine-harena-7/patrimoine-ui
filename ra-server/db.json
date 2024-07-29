@@ -1,0 +1,104 @@
+{
+  "patrimoine": [
+    {
+      "id": 1,
+      "nom": "Item 1",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-01-01",
+      "valeur_comptable": 100
+    },
+    {
+      "id": 2,
+      "nom": "Item 2",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-02-01",
+      "valeur_comptable": 50
+    },
+    {
+      "id": 3,
+      "nom": "Item 3",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-03-01",
+      "valeur_comptable": 300
+    },
+    {
+      "id": 4,
+      "nom": "Item 4",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-04-01",
+      "valeur_comptable": 100
+    },
+    {
+      "id": 5,
+      "nom": "Item 5",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-05-01",
+      "valeur_comptable": 500
+    },
+    {
+      "id": 6,
+      "nom": "Item 6",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-06-01",
+      "valeur_comptable": 600
+    },
+    {
+      "id": 7,
+      "nom": "Item 7",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-07-01",
+      "valeur_comptable": 800
+    },
+    {
+      "id": 8,
+      "nom": "Item 8",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-08-01",
+      "valeur_comptable": 800
+    },
+    {
+      "id": 9,
+      "nom": "Item 9",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-09-01",
+      "valeur_comptable": 500
+    },
+    {
+      "id": 10,
+      "nom": "Item 10",
+      "possesseur": {
+        "nom": "Bretta"
+      },
+      "t": "2023-10-01",
+      "valeur_comptable": 400
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bretta",
+      "email": "Sincere@april.biz",
+      "address": "Kulas Light Gwenborough 92998-3874",
+      "phone": "1-770-736-8031 x56442"
+    }
+  ]
+}
